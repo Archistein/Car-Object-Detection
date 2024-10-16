@@ -1,6 +1,6 @@
 # Car Object Detection with YOLOv5
 
-This repo contains implementation of car object detection task. I used this [dataset](https://www.kaggle.com/datasets/sshikamaru/car-object-detection) to train YOLOv5 from scratch without pretraining. 
+This repo contains an implementation of the car object detection task. I used this [dataset](https://www.kaggle.com/datasets/sshikamaru/car-object-detection) to train YOLOv5 from scratch without pretraining. 
 
 ## YOLOv5 architecture
 
